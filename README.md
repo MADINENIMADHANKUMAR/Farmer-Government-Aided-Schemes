@@ -45,3 +45,13 @@ This is a complete web application for farmers to view, apply for, and track gov
      messagingSenderId: "YOUR_SENDER_ID",
      appId: "YOUR_APP_ID"
    };
+
+---
+
+## 🌍 Live Website
+
+This project is hosted on GitHub Pages:
+
+🔗 [View Live Website](https://madinenimadhankumar.github.io/Farmer-Government-Aided-Schemes/)
+
+---
